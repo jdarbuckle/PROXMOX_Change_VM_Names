@@ -40,7 +40,3 @@ here is where you will see the configuration file settings, in our case the "nam
 
 
 You may need to reboot the machine if its running, to do that you can use `qm restart <VMID>` to reboot that specific machine.
-
-
-==Resources==
-- xxxxxx
